@@ -1,4 +1,6 @@
 # Copyright 2023 Qewertyy <https://telegram.dog/Qewertyy>, MIT License
+# SOURCE https://github.com/Team-ProjectCodeX
+# PROVIDED BY https://t.me/ProjectCodeX
 
 import requests
 from pyrogram import filters,types
